@@ -1,0 +1,30 @@
+/* Left Panel */
+body{
+    margin: 0px;
+}
+.clearfix{
+    clear: both;
+}
+.flex-container {
+    display: flex;
+    padding-top: 68px;
+}
+.left-panel{
+    flex: 0 1 22%;
+}
+.userList{
+    border: 1px solid #9c8804;
+    padding: 7px;
+    box-shadow: 7px 4px 6px #35a0b1;
+    padding: 16px;
+    border-radius: 10px;
+    margin-bottom: 4px;
+}
+.left-panel-outer{
+    position: fixed;
+    height: 85%;
+    overflow-y: auto;
+    width: 20.5%;
+    margin-left: 9px;
+}
+/* Left Panel End*/

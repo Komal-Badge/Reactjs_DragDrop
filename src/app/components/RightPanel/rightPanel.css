@@ -1,0 +1,24 @@
+/* Right Panel End*/
+.right-panel{
+    flex: 0 1 78%;
+}
+.user-cell{
+    border: 1px solid #888888;
+    padding: 28px;
+    box-shadow: 5px 3px 10px #eacccc;;
+    margin-bottom: 4px;
+    width: 200px;
+    cursor: pointer;
+    font-size: 18px;
+    color: #09334c;
+}
+.icon-alignment{
+    float: right;
+    margin-top: -25px;
+    font-size: 24px !important;
+    font-weight: bold;
+}
+.icon-alignment:hover{
+    color:red;
+}
+/* Right Panel End */
